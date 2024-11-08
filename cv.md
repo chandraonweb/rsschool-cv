@@ -47,7 +47,6 @@ All of my formal education and courses have been conducted in English. This incl
 - **DSA and Algorithmic Problem-Solving** (LeetCode, HackerRank) – *Ongoing*  
   Solving complex algorithmic problems to improve coding skills and prepare for technical interviews.
 
-
- ## English
+## English
 
   Since all of my education and professional training has been conducted in English, I have developed strong proficiency in both written and spoken English. The courses, materials, and discussions were all in English, which has significantly enhanced my ability to communicate effectively in technical and professional settings.

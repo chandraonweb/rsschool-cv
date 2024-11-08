@@ -24,3 +24,30 @@
   - **Infinite Scroll - Unsplash API** : [https://zesty-pothos-f656fa.netlify.app/]
   - **Random Password Generator** : [https://jolly-gumdrop-0da4e4.netlify.app/]
   - **Lyrics App** : [https://nifty-nightingale-5d8929.netlify.app/]
+
+## Experience
+  - **Water pH Monitoring System**  
+  Developed a water pH monitoring system that detects the pH level of water and stores it in the cloud (AWS). The system uses MQTT for communication between the hardware and AWS. The water pH level data is collected using an Arduino/NodeMCU, and data is sent to AWS. From AWS, the pH level is displayed on a mobile app.  
+Technologies Used : AWS, MQTT, Arduino, NodeMCU, Mobile App Development, Cloud Integration.  
+  
+
+
+## Education 
+
+All of my formal education and courses have been conducted in English. This includes:
+
+- **M.Tech in CSE**
+
+- **CS50: Introduction to Computer Science** (Harvard University, edX) – *In progress since October 2024*  
+  Covered computer science fundamentals such as algorithms, data structures, memory, and problem-solving.
+
+- **Frontend Development with React** (Rolling Scopes School) – *In progress since October 2024*  
+  Focus on modern JavaScript and React, building dynamic web applications.
+
+- **DSA and Algorithmic Problem-Solving** (LeetCode, HackerRank) – *Ongoing*  
+  Solving complex algorithmic problems to improve coding skills and prepare for technical interviews.
+
+
+ ## English
+
+  Since all of my education and professional training has been conducted in English, I have developed strong proficiency in both written and spoken English. The courses, materials, and discussions were all in English, which has significantly enhanced my ability to communicate effectively in technical and professional settings.
